@@ -1,0 +1,36 @@
+[guid]
+        guid_g0                          = 6148914691236517205
+        guid_g1                          = 6148914691236517205
+ 
+[main]
+        flags                            = 0
+        objects_count                    = 1
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        change_map_to_idx                = 255
+        clsid                            = 8
+        co_flags                         = 2
+        default                          = off
+        item_mesh_name_0000              = modelShape
+        item_mesh_name_0001              = mostik_b
+        item_mesh_name_0002              = plita_celka
+        item_mesh_name_0003              = concrete_block_8
+        item_mesh_name_0004              = betoncilindr_celka
+        item_object_name_0000            = levels\tun2\tun2_part0026
+        item_object_name_0001            = statics\fishers\mostik_b
+        item_object_name_0002            = statics\concrete_slab\betoncilindr_kusok
+        item_object_name_0003            = statics\concrete_slab\concrete_block_1
+        item_object_name_0004            = statics\concrete_slab\betoncilindr_celka
+        items_count                      = 5
+        name                             = sector
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        sector_color                     = 31, 231, 21, 255
+        version                          = 18
+ 

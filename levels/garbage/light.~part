@@ -1,0 +1,388 @@
+[guid]
+        guid_g0                          = 6148914691236517205
+        guid_g1                          = 6148914691236517205
+ 
+[lcontrols]
+        $hemi                            = 1
+        $static                          = 0
+        $sun                             = 2
+ 
+[main]
+        flags                            = 0
+        lcontrol_last_idx                = 3
+        objects_count                    = 16
+        sun_shadow_dir                   = -0.436332, 5.096362
+        version                          = 0
+ 
+[modif]
+        name                             = "unknown"
+        time                             = 0
+ 
+[object_0]
+        anim_ref_name                    =
+        attenuation0                     = 0.350000
+        attenuation1                     = 0.500000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 0.800000, 0.552157, 0.282353, 0.000000
+        cone                             = 0.000000
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0000
+        position                         = 7.863115, 14.703220, -203.653856
+        range                            = 5.000000
+        rotation                         = -0.000000, 0.000000, 1.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_1]
+        anim_ref_name                    =
+        attenuation0                     = 0.350000
+        attenuation1                     = 0.500000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 0.800000, 0.552157, 0.282353, 0.000000
+        cone                             = 0.000000
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0001
+        position                         = 3.170932, 14.684059, -240.432640
+        range                            = 5.000000
+        rotation                         = -0.000000, 0.000000, 1.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_10]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0010
+        position                         = -4.029999, 1.494096, 245.121392
+        range                            = 12.000000
+        rotation                         = -0.000000, 0.000000, 1.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_11]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0011
+        position                         = -18.088652, 1.236738, 238.110032
+        range                            = 12.000000
+        rotation                         = 0.841471, 0.000000, 0.540302
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_12]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0012
+        position                         = -26.024418, 1.402142, 238.110016
+        range                            = 12.000000
+        rotation                         = 0.841471, 0.000000, 0.540302
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_13]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0013
+        position                         = -48.348472, 1.415357, 238.110048
+        range                            = 12.000000
+        rotation                         = 0.841471, 0.000000, 0.540302
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_14]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0014
+        position                         = -71.072368, 1.475633, 238.110000
+        range                            = 12.000000
+        rotation                         = 0.841471, 0.000000, 0.540302
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_15]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0015
+        position                         = -78.829992, 1.478991, 267.489264
+        range                            = 12.000000
+        rotation                         = -0.299992, 0.000000, 0.953942
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_2]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0002
+        position                         = -110.530008, 3.622141, 269.528224
+        range                            = 12.000000
+        rotation                         = -0.000000, 0.000000, 1.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_3]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0003
+        position                         = -105.785032, 1.448290, 260.409968
+        range                            = 12.000000
+        rotation                         = -0.841471, 0.000000, 0.540302
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_4]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0004
+        position                         = -78.830016, 1.475517, 254.337520
+        range                            = 12.000000
+        rotation                         = -0.000000, 0.000000, 1.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_5]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0005
+        position                         = -71.127656, 1.456991, 282.910112
+        range                            = 12.000000
+        rotation                         = -0.841471, 0.000000, 0.540302
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_6]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0006
+        position                         = -48.778224, 1.504698, 282.910048
+        range                            = 12.000000
+        rotation                         = -0.841471, 0.000000, 0.540302
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_7]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0007
+        position                         = -25.418424, 1.543914, 282.909984
+        range                            = 12.000000
+        rotation                         = -0.841471, 0.000000, 0.540302
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_8]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0008
+        position                         = -10.774307, 1.534874, 282.909984
+        range                            = 12.000000
+        rotation                         = -0.841471, 0.000000, 0.540302
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_9]
+        anim_ref_name                    =
+        attenuation0                     = 1.000000
+        attenuation1                     = 0.000000
+        attenuation2                     = 0.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.843137, 0.627451, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_0009
+        position                         = -4.029998, 1.394605, 275.282656
+        range                            = 12.000000
+        rotation                         = -0.000000, 0.000000, 1.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = off
+        version                          = 17
+        virtual_size                     = 0.000000
+ 

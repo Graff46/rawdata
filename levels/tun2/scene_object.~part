@@ -1,0 +1,64 @@
+[appendrandom]
+        AppendRandomMaxRotation          = 0.000000, 0.000000, 0.000000
+        AppendRandomMaxScale             = 1.000000, 1.000000, 1.000000
+        AppendRandomMinRotation          = 0.000000, 0.000000, 0.000000
+        AppendRandomMinScale             = 1.000000, 1.000000, 1.000000
+        AppendRandomObjects_size         = 0
+ 
+[guid]
+        guid_g0                          = 6148914691236517205
+        guid_g1                          = 6148914691236517205
+ 
+[main]
+        flags                            = 0
+        objects_count                    = 4
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 2
+        co_flags                         = 2
+        flags                            = 0
+        name                             = levels\tun2\tun2_part0026
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = levels\tun2\tun2_part0026
+        rotation                         = 0.000000, -0.000000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_1]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\fishers\mostik_b
+        position                         = -176.342288, -34.026892, -88.063584
+        reference_name                   = statics\fishers\mostik_b
+        rotation                         = -0.012600, -1.609200, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_2]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\concrete_slab\betoncilindr_kusok
+        position                         = -168.299696, -28.564126, -129.850360
+        reference_name                   = statics\concrete_slab\plita_celka
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_3]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\concrete_slab\concrete_block_1
+        position                         = -188.397168, -46.501876, -73.216056
+        reference_name                   = statics\concrete_slab\concrete_block_8
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 

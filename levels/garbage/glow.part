@@ -1,0 +1,312 @@
+[guid]
+        guid_g0                          = 6148914691236517205
+        guid_g1                          = 6148914691236517205
+ 
+[main]
+        flags                            = 0
+        glow_tool_version                = 0
+        objects_count                    = 23
+ 
+[modif]
+        name                             = "unknown"
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow
+        position                         = -110.130000, 3.622146, 269.528192
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_1]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0000
+        position                         = -105.785032, 1.448148, 260.809968
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_10]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0009
+        position                         = -26.024418, 1.402119, 237.709952
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_11]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0010
+        position                         = -48.348472, 1.415344, 237.710048
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_12]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0011
+        position                         = -71.072368, 1.475682, 237.709936
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_13]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0012
+        position                         = -79.230000, 1.478947, 267.489296
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_14]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0013
+        position                         = -53.356416, 19.054986, 260.052976
+        radius                           = 5.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 5.000000, 5.000000, 5.000000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_15]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0014
+        position                         = -58.560724, 19.054986, 265.077632
+        radius                           = 3.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 3.000000, 3.000000, 3.000000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_16]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0015
+        position                         = -58.237016, 19.054986, 260.410064
+        radius                           = 5.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 5.000000, 5.000000, 5.000000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_17]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0016
+        position                         = -66.179428, 19.054986, 261.738896
+        radius                           = 5.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 5.000000, 5.000000, 5.000000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_18]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0017
+        position                         = -67.117472, 19.054986, 270.513952
+        radius                           = 5.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 5.000000, 5.000000, 5.000000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_19]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0018
+        position                         = -47.392860, 11.129987, 276.273792
+        radius                           = 1.500000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.500000, 1.500000, 1.500000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_2]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0001
+        position                         = -79.229992, 1.475488, 254.337472
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_20]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0019
+        position                         = -47.392860, 11.579987, 274.088832
+        radius                           = 1.500000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.500000, 1.500000, 1.500000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_21]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0020
+        position                         = -43.539712, 11.129987, 275.671392
+        radius                           = 1.500000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.500000, 1.500000, 1.500000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_22]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0021
+        position                         = 17.544188, 13.076428, -392.796352
+        radius                           = 0.500000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.500000, 0.500000, 0.500000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_3]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0002
+        position                         = -71.127592, 1.456936, 283.310048
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_4]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0003
+        position                         = -48.778224, 1.504747, 283.310048
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_5]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0004
+        position                         = -25.418424, 1.543998, 283.310016
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_6]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0005
+        position                         = -10.774307, 1.534893, 283.309952
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_7]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0006
+        position                         = -3.629988, 1.394606, 275.282688
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_8]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0007
+        position                         = -3.630000, 1.494097, 245.121392
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 
+[object_9]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0008
+        position                         = -18.088658, 1.236744, 237.710016
+        radius                           = 0.700000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
+        version                          = 18
+ 

@@ -1,0 +1,45 @@
+[guid]
+        guid_g0                          = 6148914691236517205
+        guid_g1                          = 6148914691236517205
+ 
+[main]
+        objects_count                    = 3
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 11
+        co_flags                         = 2
+        game_type                        = 65535
+        name                             = ps
+        position                         = 118.587128, 0.000000, -25.087500
+        ref_name                         = explosions\campfire_boar_grill
+        rotation                         = 0.000000, -0.000000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 19
+ 
+[object_1]
+        clsid                            = 11
+        co_flags                         = 2
+        game_type                        = 65535
+        name                             = ps_0000
+        position                         = 100.932768, -0.053043, -43.108176
+        ref_name                         = explosions\gas_light
+        rotation                         = 0.000000, -0.000000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 19
+ 
+[object_2]
+        clsid                            = 11
+        co_flags                         = 2
+        game_type                        = 65535
+        name                             = ps_0001
+        position                         = -198.572096, 5.108638, -140.859808
+        ref_name                         = anomaly2\electra_idle
+        rotation                         = 0.001024, -0.070473, -1.585297
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 19
+ 

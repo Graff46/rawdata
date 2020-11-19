@@ -1,0 +1,34 @@
+[guid]
+        guid_g0                          = 6148914691236517205
+        guid_g1                          = 6148914691236517205
+ 
+[main]
+        objects_count                    = 2
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 11
+        co_flags                         = 2
+        game_type                        = 65535
+        name                             = ps_0004
+        position                         = -177.897968, -87.991968, -88.640248
+        ref_name                         = zones\zone_acidic_idle
+        rotation                         = 0.000000, -0.000000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 19
+ 
+[object_1]
+        clsid                            = 11
+        co_flags                         = 2
+        game_type                        = 65535
+        name                             = ps_0005
+        position                         = -209.316544, -33.386368, -145.545888
+        ref_name                         = zones\zone_acidic_idle
+        rotation                         = 0.000000, -0.000000, -0.000000
+        scale                            = 1.000000, 0.638200, 1.000000
+        version                          = 19
+ 

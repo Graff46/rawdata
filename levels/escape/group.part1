@@ -1,0 +1,187 @@
+[guid]
+        guid_g0                          = 6148914691236517205
+        guid_g1                          = 6148914691236517205
+ 
+[main]
+        objects_count                    = 1
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 0
+        co_flags                         = 3
+        ingroup_count                    = 5
+        name                             = light_preset\zone_fireplace
+        position                         = -210.332576, -7.225871, -140.754448
+        ref_name                         = light_preset\zone_fireplace
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_0_ingroup_0]
+        clsid                            = 2
+        co_flags                         = 3
+        flags                            = 0
+        name                             = statics\fireplace\fireplace_1
+        position                         = -210.332576, -7.225871, -140.754448
+        reference_name                   = statics\fireplace\fireplace_1
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_0_ingroup_1]
+        anim_ref_name                    =
+        attenuation0                     = 0.500000
+        attenuation1                     = 0.800000
+        attenuation2                     = 0.100000
+        brightness                       = 1.500000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.690196, 0.352941, 0.000000
+        cone                             = 0.000000
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = -303174167
+        name                             = light_fireplace
+        position                         = -210.356592, -5.928632, -140.788336
+        range                            = 10.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = on
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_0_ingroup_2]
+        anim_ref_name                    =
+        attenuation0                     = 0.350000
+        attenuation1                     = 0.800000
+        attenuation2                     = 1.000000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.690196, 0.352941, 0.000000
+        cone                             = 0.000000
+        fallof_texture                   =
+        fuzzy_box_dim                    = 0.100000, 0.100000, 0.100000
+        fuzzy_point_0                    = 0.051823, 0.242317, 0.073801
+        fuzzy_point_1                    = 0.345005, -0.006021, 0.227513
+        fuzzy_point_2                    = 0.254380, 0.657274, -0.464105
+        fuzzy_point_3                    = -0.008936, -0.013511, -0.001099
+        fuzzy_point_4                    = 0.464638, 0.807576, -0.340416
+        fuzzy_point_5                    = -0.057386, -0.008013, 0.849248
+        fuzzy_point_count                = 6
+        fuzzy_shape_type                 = 0
+        fuzzy_sphere_radius              = 1.000000
+        light_control                    = 0
+        light_flags                      = -303174151
+        name                             = light_fireplace_ambient_0000
+        position                         = -210.356592, -6.828630, -140.788320
+        range                            = 4.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = on
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_0_ingroup_3]
+        anim_ref_name                    =
+        attenuation0                     = 0.350000
+        attenuation1                     = 0.500000
+        attenuation2                     = 0.500000
+        brightness                       = 0.800000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 1.000000, 0.690196, 0.352941, 0.000000
+        cone                             = 0.000000
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = -303174166
+        name                             = light_fireplace_dinamic
+        position                         = -210.356592, -6.158632, -140.788336
+        range                            = 5.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = on
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_0_ingroup_4]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = campfire_dinamic_0001
+        position                         = -210.332576, -6.829871, -140.754448
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_0_ingroup_4_attached_0]
+        clsid                            = 4
+        co_flags                         = 2
+        name                             = shape_0000
+        position                         = -210.332576, -6.829871, -140.754448
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_center_1                   = 0.000000, 0.558000, 0.000000
+        shape_radius_0                   = 0.387240
+        shape_radius_1                   = 0.674519
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_0_ingroup_4_spawndata]
+        000001                           = 1
+        000002                           = "campfire"
+        000003                           = "campfire_dinamic_0001"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -210.332576, -6.829871, -140.754448
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 2
+        000028                           = 0
+        000029                           = 0.000000, 0.000000, 0.000000
+        000030                           = 0.387240
+        000031                           = 0
+        000032                           = 0.000000, 0.558000, 0.000000
+        000033                           = 0.674519
+        000034                           = 3
+        000035                           = 0.000000
+        000036                           = -1
+        000037                           = 0
+        000038                           = 0
+        000039                           = 0
+        000040                           = 30.000000
+        000041                           = 32
+        000042                           = 4
+        fl                               = 0
+        name                             = campfire
+ 

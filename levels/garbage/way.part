@@ -1,0 +1,214 @@
+[guid]
+        guid_g0                          = 6148914691236517205
+        guid_g1                          = 6148914691236517205
+ 
+[main]
+        objects_count                    = 6
+        version                          = 0
+ 
+[modif]
+        name                             = "unknown"
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 7
+        co_flags                         = 2
+        name                             = gar_svalka_guard_1_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = 28.564398, 14.757618, -234.125840
+        wp_0_selected                    = off
+        wp_count                         = 1
+ 
+[object_1]
+        clsid                            = 7
+        co_flags                         = 2
+        name                             = gar_svalka_guard_1_look
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 32.605114, 15.378512, -234.154192
+        wp_0_selected                    = off
+        wp_count                         = 1
+ 
+[object_2]
+        clsid                            = 7
+        co_flags                         = 2
+        name                             = gar_svalka_guard_2_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 29.472888, 13.684806, -223.185088
+        wp_0_selected                    = off
+        wp_count                         = 1
+ 
+[object_3]
+        clsid                            = 7
+        co_flags                         = 2
+        name                             = gar_svalka_guard_2_look
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 36.154748, 13.740789, -223.745360
+        wp_0_selected                    = off
+        wp_count                         = 1
+ 
+[object_4]
+        clsid                            = 7
+        co_flags                         = 2
+        link_wp_0_0                      = 12.000000, 1.000000
+        link_wp_0_1                      = 1.000000, 1.000000
+        link_wp_10_0                     = 9.000000, 1.000000
+        link_wp_10_1                     = 11.000000, 1.000000
+        link_wp_11_0                     = 10.000000, 1.000000
+        link_wp_11_1                     = 12.000000, 1.000000
+        link_wp_12_0                     = 11.000000, 1.000000
+        link_wp_12_1                     = 0.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_1_1                      = 0.000000, 1.000000
+        link_wp_2_0                      = 1.000000, 1.000000
+        link_wp_2_1                      = 3.000000, 1.000000
+        link_wp_3_0                      = 2.000000, 1.000000
+        link_wp_3_1                      = 4.000000, 1.000000
+        link_wp_4_0                      = 3.000000, 1.000000
+        link_wp_4_1                      = 5.000000, 1.000000
+        link_wp_5_0                      = 4.000000, 1.000000
+        link_wp_5_1                      = 6.000000, 1.000000
+        link_wp_6_0                      = 5.000000, 1.000000
+        link_wp_6_1                      = 7.000000, 1.000000
+        link_wp_7_0                      = 6.000000, 1.000000
+        link_wp_7_1                      = 8.000000, 1.000000
+        link_wp_8_0                      = 7.000000, 1.000000
+        link_wp_8_1                      = 9.000000, 1.000000
+        link_wp_9_0                      = 8.000000, 1.000000
+        link_wp_9_1                      = 10.000000, 1.000000
+        name                             = gar_svalka_patrol_1_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00|count=5
+        wp_0_pos                         = -38.945012, 14.101496, -180.068384
+        wp_0_selected                    = off
+        wp_10_flags                      = 0
+        wp_10_name                       = wp10
+        wp_10_pos                        = 28.918482, 13.640007, -213.974912
+        wp_10_selected                   = off
+        wp_11_flags                      = 0
+        wp_11_name                       = wp11
+        wp_11_pos                        = 28.047184, 15.625673, -168.179536
+        wp_11_selected                   = off
+        wp_12_flags                      = 0
+        wp_12_name                       = wp12
+        wp_12_pos                        = -12.986952, 14.637182, -166.868896
+        wp_12_selected                   = off
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = -35.617604, 13.101618, -184.554176
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = -36.303848, 13.615980, -195.541920
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = -21.531842, 12.590139, -194.250864
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = -12.545172, 12.838896, -198.848112
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = -2.542600, 13.982725, -215.873168
+        wp_5_selected                    = off
+        wp_6_flags                       = 0
+        wp_6_name                        = wp06
+        wp_6_pos                         = -4.329320, 14.098331, -242.597872
+        wp_6_selected                    = off
+        wp_7_flags                       = 0
+        wp_7_name                        = wp07
+        wp_7_pos                         = 13.439905, 14.114019, -243.579616
+        wp_7_selected                    = off
+        wp_8_flags                       = 0
+        wp_8_name                        = wp08
+        wp_8_pos                         = 15.886459, 13.640007, -227.202704
+        wp_8_selected                    = off
+        wp_9_flags                       = 0
+        wp_9_name                        = wp09
+        wp_9_pos                         = 22.410652, 13.640003, -213.724128
+        wp_9_selected                    = off
+        wp_count                         = 13
+ 
+[object_5]
+        clsid                            = 7
+        co_flags                         = 2
+        link_wp_0_0                      = 6.000000, 1.000000
+        link_wp_0_1                      = 1.000000, 1.000000
+        link_wp_1_0                      = 0.000000, 1.000000
+        link_wp_1_1                      = 2.000000, 1.000000
+        link_wp_2_0                      = 1.000000, 1.000000
+        link_wp_2_1                      = 3.000000, 1.000000
+        link_wp_3_0                      = 2.000000, 1.000000
+        link_wp_3_1                      = 4.000000, 1.000000
+        link_wp_4_0                      = 3.000000, 1.000000
+        link_wp_4_1                      = 5.000000, 1.000000
+        link_wp_5_0                      = 4.000000, 1.000000
+        link_wp_5_1                      = 6.000000, 1.000000
+        link_wp_6_0                      = 0.000000, 1.000000
+        link_wp_6_1                      = 5.000000, 1.000000
+        name                             = gar_svalka_patrol_2_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00|count=4
+        wp_0_pos                         = -21.106178, 12.467966, -182.444288
+        wp_0_selected                    = off
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = -16.802662, 12.619429, -194.492848
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = -5.037228, 13.340101, -204.899888
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 5.457276, 13.640003, -212.415312
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 15.756338, 13.640001, -204.552096
+        wp_4_selected                    = off
+        wp_5_flags                       = 0
+        wp_5_name                        = wp05
+        wp_5_pos                         = 12.088091, 12.672384, -183.871568
+        wp_5_selected                    = off
+        wp_6_flags                       = 0
+        wp_6_name                        = wp06
+        wp_6_pos                         = 0.171169, 13.197023, -168.734528
+        wp_6_selected                    = off
+        wp_count                         = 7
+ 

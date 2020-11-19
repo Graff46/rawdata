@@ -1,0 +1,48 @@
+[build_params]
+        light_jitter_samples             = 1
+        light_pixel_per_meter            = 0.100000
+        light_quality                    = 0
+        light_quality_reserved           = 0
+        light_rms                        = 4
+        light_rms_zero                   = 4
+        reserved_0                       = 0.000000
+        reserved_1                       = 0.000000
+        reserved_2                       = 0.000000
+        reserved_3                       = 0.000000
+        reserved_4                       = 0.000000
+        reserved_5                       = 0.000000
+        smooth_angle                     = 75.000000
+        weld_distance                    = 0.005000
+ 
+[camera]
+        hpb                              = -1.641550, 0.126221, 0.000000
+        pos                              = -169.677488, -28.799832, -129.759184
+ 
+[guid]
+        guid_g0                          = 6148914691236517205
+        guid_g1                          = 6148914691236517205
+ 
+[level_options]
+        bop                              = ""
+        game_type                        = 1
+        level_path                       = esc_tunnel
+        level_prefix                     = esc_tunnel
+        light_hemi_quality               = 0
+        light_sun_quality                = 0
+        map_version                      = 1.000000
+        version                          = 12
+        version_bp                       = 9
+ 
+[level_tag]
+        create_time                      = 0
+        owner                            = "unknown"
+ 
+[snap_objects]
+        levels\tun2\tun2_part0026        =
+        statics\concrete_slab\betoncilindr_kusok =
+        statics\concrete_slab\concrete_block_1 =
+        statics\fishers\mostik_b         =
+ 
+[version]
+        value                            = 5
+ 
