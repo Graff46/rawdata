@@ -1,0 +1,5 @@
+# exclude all dot files except .git, appveyor and travis files
+.*
+/*
+!.git*
+!/levels/*
