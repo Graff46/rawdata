@@ -20,11 +20,13 @@
         item_mesh_name_0001              = mostik_b
         item_mesh_name_0002              = plita_celka
         item_mesh_name_0003              = concrete_block_8
+        item_mesh_name_0004              = betoncilindr_celka
         item_object_name_0000            = levels\tun2\tun2_part0026
         item_object_name_0001            = statics\fishers\mostik_b
         item_object_name_0002            = statics\concrete_slab\betoncilindr_kusok
         item_object_name_0003            = statics\concrete_slab\concrete_block_1
-        items_count                      = 4
+        item_object_name_0004            = statics\concrete_slab\betoncilindr_celka
+        items_count                      = 5
         name                             = sector
         position                         = 0.000000, 0.000000, 0.000000
         rotation                         = 0.000000, 0.000000, 0.000000

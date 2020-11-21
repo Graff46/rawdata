@@ -11,7 +11,7 @@
  
 [main]
         flags                            = 0
-        objects_count                    = 4
+        objects_count                    = 5
         version                          = 0
  
 [modif]
@@ -60,5 +60,16 @@
         reference_name                   = statics\concrete_slab\concrete_block_8
         rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_4]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\concrete_slab\betoncilindr_celka
+        position                         = -163.216640, -31.709768, -144.170400
+        reference_name                   = statics\concrete_slab\betoncilindr_celka
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.834400, 0.983800, 0.834400
         version                          = 18
  

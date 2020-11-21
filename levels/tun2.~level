@@ -15,8 +15,8 @@
         weld_distance                    = 0.005000
  
 [camera]
-        hpb                              = -1.641550, 0.126221, 0.000000
-        pos                              = -169.677488, -28.799832, -129.759184
+        hpb                              = 1.692054, -0.332974, 0.000000
+        pos                              = -182.519088, -44.351820, -73.245128
  
 [guid]
         guid_g0                          = 6148914691236517205
@@ -39,6 +39,7 @@
  
 [snap_objects]
         levels\tun2\tun2_part0026        =
+        statics\concrete_slab\betoncilindr_celka =
         statics\concrete_slab\betoncilindr_kusok =
         statics\concrete_slab\concrete_block_1 =
         statics\fishers\mostik_b         =

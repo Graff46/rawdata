@@ -402,7 +402,7 @@
         000038                           = 0.000000
         000039                           = 0.000000, 0.000000, 0.000000
         000040                           = "escape"
-        000041                           = "start_actor_1_2"
+        000041                           = "escape_in_garbage"
         000042                           = 1
         000043                           = 1
         000044                           = "level_changer_invitation"
@@ -413,7 +413,7 @@
 [object_107]
         clsid                            = 6
         co_flags                         = 2
-        name                             = start_actor_3_1
+        name                             = garbage_in_escape
         position                         = 47.543444, 11.598736, -571.809984
         rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
@@ -6217,8 +6217,7 @@ ignore_static
         000021                           = 1
         000022                           = -1
         000023                           = -194
-        000024                           = "[smart_terrain]
-cfg = scripts\garbage\smart\svalka.ltx
+        000024                           = "[auto]
 
 [story_object]
 story_id = gar_svalka_smart"
@@ -9095,7 +9094,7 @@ story_id = gar_svalka_smart"
 [object_49]
         clsid                            = 6
         co_flags                         = 2
-        name                             = garbage_to_escape
+        name                             = garbage_in_escape_ai
         position                         = 48.507312, 12.308283, -561.610176
         rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
@@ -9121,7 +9120,7 @@ story_id = gar_svalka_smart"
         000016                           = 0
         000017                           = 0
         000018                           = 0
-        000019                           = "escape_to_garbage"
+        000019                           = "escape_in_garbage_ai"
         000020                           = "escape"
         000021                           = 0
         000022                           = 0
