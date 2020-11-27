@@ -4,7 +4,7 @@
  
 [main]
         flags                            = 0
-        objects_count                    = 52
+        objects_count                    = 53
         version                          = 0
  
 [modif]
@@ -3029,7 +3029,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         name                             = esc_tunnel_tushkan1_sr
         position                         = -176.060336, -31.053636, -130.352312
         rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.030600, 1.000000, 1.000000
+        scale                            = 1.000000, 1.000000, 1.000000
         type                             = 2
         version                          = 23
  
@@ -3039,9 +3039,9 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         name                             = shape
         position                         = -176.060336, -31.053636, -130.352312
         rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.030600, 1.000000, 1.000000
+        scale                            = 1.000000, 1.000000, 1.000000
         shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
-        shape_matrix_i_0                 = 6.258733, 0.000000, 0.000000
+        shape_matrix_i_0                 = 6.450250, 0.000000, 0.000000
         shape_matrix_j_0                 = 0.000000, 3.957401, 0.000000
         shape_matrix_k_0                 = 0.000000, 0.000000, 6.750997
         shape_type                       = 0
@@ -3079,7 +3079,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         000026                           = -1
         000027                           = 1
         000028                           = 1
-        000029                           = 6.258733, 0.000000, 0.000000
+        000029                           = 6.450250, 0.000000, 0.000000
         000030                           = 0.000000, 3.957401, 0.000000
         000031                           = 0.000000, 0.000000, 6.750997
         000032                           = 0.000000, 0.000000, 0.000000
@@ -3151,6 +3151,48 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         000033                           = 0
         fl                               = 0
         name                             = space_restrictor
+ 
+[object_52]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = esc_tunnel_script_object
+        position                         = -177.764336, -22.431962, -88.175688
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.209610, 1.000000, 1.209610
+        type                             = 2
+        version                          = 23
+ 
+[object_52_spawndata]
+        000001                           = 1
+        000002                           = "script_object"
+        000003                           = "esc_tunnel_script_object"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -177.764336, -22.431962, -88.175688
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -195
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\equipments\item_dog_tail"
+        000028                           = 0
+        fl                               = 0
+        name                             = script_object
  
 [object_5_attached_0]
         clsid                            = 4

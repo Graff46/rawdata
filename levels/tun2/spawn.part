@@ -4,7 +4,7 @@
  
 [main]
         flags                            = 0
-        objects_count                    = 53
+        objects_count                    = 52
         version                          = 0
  
 [modif]
@@ -2646,66 +2646,6 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
 [object_45]
         clsid                            = 6
         co_flags                         = 0
-        name                             = esc_tunnel_dog_normal
-        position                         = -184.772864, -31.710130, -145.438320
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_45_spawndata]
-        000001                           = 1
-        000002                           = "dog_normal"
-        000003                           = "esc_tunnel_dog_normal"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -184.772864, -31.710130, -145.438320
-        000007                           = 0.000000, 0.000000, 0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -65
-        000024                           = "; default_custom_data.ltx"
-        000025                           = -1
-        000026                           = -1
-        000027                           = "monsters\dog\dog_red"
-        000028                           = 0
-        000029                           = 0
-        000030                           = 0
-        000031                           = 0
-        000032                           = 0.000000
-        000033                           = 0
-        000034                           = 0
-        000035                           = 65535
-        000036                           = 0
-        000037                           = ""
-        000038                           = ""
-        000039                           = 65535
-        000040                           = 0
-        000041                           = "$editor"
-        000042                           = 0
-        000043                           = 65535
-        000044                           = 65535
-        000045                           = "nil"
-        000046                           = "nil"
-        fl                               = 0
-        name                             = dog_normal
- 
-[object_46]
-        clsid                            = 6
-        co_flags                         = 0
         name                             = esc_tunnel_tushkano_normal_0007
         position                         = -191.043040, -39.734808, -78.211312
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -2713,7 +2653,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_46_spawndata]
+[object_45_spawndata]
         000001                           = 1
         000002                           = "tushkano_normal"
         000003                           = "esc_tunnel_tushkano_normal_0007"
@@ -2763,7 +2703,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         fl                               = 0
         name                             = tushkano_normal
  
-[object_47]
+[object_46]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_tushkano_normal_0008
@@ -2773,7 +2713,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_47_spawndata]
+[object_46_spawndata]
         000001                           = 1
         000002                           = "tushkano_normal"
         000003                           = "esc_tunnel_tushkano_normal_0008"
@@ -2823,7 +2763,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         fl                               = 0
         name                             = tushkano_normal
  
-[object_48]
+[object_47]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_tushkano_normal_0009
@@ -2833,7 +2773,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_48_spawndata]
+[object_47_spawndata]
         000001                           = 1
         000002                           = "tushkano_normal"
         000003                           = "esc_tunnel_tushkano_normal_0009"
@@ -2883,7 +2823,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         fl                               = 0
         name                             = tushkano_normal
  
-[object_49]
+[object_48]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -2894,7 +2834,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_49_attached_0]
+[object_48_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             = shape
@@ -2910,7 +2850,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         shapes_count                     = 1
         version                          = 2
  
-[object_49_spawndata]
+[object_48_spawndata]
         000001                           = 1
         000002                           = "space_restrictor"
         000003                           = "esc_tunnel_rat3_sr"
@@ -2943,6 +2883,71 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         000029                           = 1.597599, 0.000000, 0.000000
         000030                           = 0.000000, 3.017798, 0.000000
         000031                           = 0.000000, 0.000000, 2.249197
+        000032                           = 0.000000, 0.000000, 0.000000
+        000033                           = 0
+        fl                               = 0
+        name                             = space_restrictor
+ 
+[object_49]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = esc_tunnel_tushkan1_sr
+        position                         = -176.060336, -31.053636, -130.352312
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_49_attached_0]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape
+        position                         = -176.060336, -31.053636, -130.352312
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 6.450250, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 3.957401, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 6.750997
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_49_spawndata]
+        000001                           = 1
+        000002                           = "space_restrictor"
+        000003                           = "esc_tunnel_tushkan1_sr"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -176.060336, -31.053636, -130.352312
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = "[logic]
+cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = 1
+        000028                           = 1
+        000029                           = 6.450250, 0.000000, 0.000000
+        000030                           = 0.000000, 3.957401, 0.000000
+        000031                           = 0.000000, 0.000000, 6.750997
         000032                           = 0.000000, 0.000000, 0.000000
         000033                           = 0
         fl                               = 0
@@ -3026,71 +3031,6 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
-        name                             = esc_tunnel_tushkan1_sr
-        position                         = -176.060336, -31.053636, -130.352312
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_50_attached_0]
-        clsid                            = 4
-        co_flags                         = 0
-        name                             = shape
-        position                         = -176.060336, -31.053636, -130.352312
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
-        shape_matrix_i_0                 = 6.450250, 0.000000, 0.000000
-        shape_matrix_j_0                 = 0.000000, 3.957401, 0.000000
-        shape_matrix_k_0                 = 0.000000, 0.000000, 6.750997
-        shape_type                       = 0
-        shape_type_0                     = 1
-        shapes_count                     = 1
-        version                          = 2
- 
-[object_50_spawndata]
-        000001                           = 1
-        000002                           = "space_restrictor"
-        000003                           = "esc_tunnel_tushkan1_sr"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -176.060336, -31.053636, -130.352312
-        000007                           = 0.000000, 0.000000, 0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -194
-        000024                           = "[logic]
-cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
-        000025                           = -1
-        000026                           = -1
-        000027                           = 1
-        000028                           = 1
-        000029                           = 6.450250, 0.000000, 0.000000
-        000030                           = 0.000000, 3.957401, 0.000000
-        000031                           = 0.000000, 0.000000, 6.750997
-        000032                           = 0.000000, 0.000000, 0.000000
-        000033                           = 0
-        fl                               = 0
-        name                             = space_restrictor
- 
-[object_51]
-        attached_count                   = 1
-        clsid                            = 6
-        co_flags                         = 0
         name                             = esc_tunnel_tushkan2_sr
         position                         = -170.750336, -31.340502, -88.228608
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -3098,7 +3038,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_51_attached_0]
+[object_50_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             = shape
@@ -3114,7 +3054,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         shapes_count                     = 1
         version                          = 2
  
-[object_51_spawndata]
+[object_50_spawndata]
         000001                           = 1
         000002                           = "space_restrictor"
         000003                           = "esc_tunnel_tushkan2_sr"
@@ -3152,7 +3092,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         fl                               = 0
         name                             = space_restrictor
  
-[object_52]
+[object_51]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_script_object
@@ -3162,7 +3102,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_52_spawndata]
+[object_51_spawndata]
         000001                           = 1
         000002                           = "script_object"
         000003                           = "esc_tunnel_script_object"

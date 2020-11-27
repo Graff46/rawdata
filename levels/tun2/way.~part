@@ -3,7 +3,7 @@
         guid_g1                          = 6148914691236517205
  
 [main]
-        objects_count                    = 5
+        objects_count                    = 4
         version                          = 0
  
 [modif]
@@ -67,21 +67,6 @@
         wp_0_flags                       = 0
         wp_0_name                        = wp00
         wp_0_pos                         = -169.956992, -31.956850, -135.178112
-        wp_0_selected                    = on
-        wp_count                         = 1
- 
-[object_4]
-        clsid                            = 7
-        co_flags                         = 0
-        name                             = esc_tun_tushkan2
-        position                         = 0.000000, 0.000000, 0.000000
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 0
-        version                          = 19
-        wp_0_flags                       = 0
-        wp_0_name                        = wp00
-        wp_0_pos                         = -178.550400, -23.523732, -87.538784
         wp_0_selected                    = on
         wp_count                         = 1
  
