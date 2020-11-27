@@ -3,10 +3,26 @@
         guid_g1                          = 6148914691236517205
  
 [main]
-        objects_count                    = 0
+        objects_count                    = 1
         version                          = 0
  
 [modif]
         name                             =
         time                             = 0
+ 
+[object_0]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = level_bbox
+        position                         = -202.587664, -53.003200, -143.699952
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 108.723904, 73.616512, 177.828480
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 1.000000, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 1.000000, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 1.000000
+        shape_type                       = 1
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
  
