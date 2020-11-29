@@ -3,11 +3,11 @@
         guid_g1                          = 6148914691236517205
  
 [main]
-        objects_count                    = 6
+        objects_count                    = 8
         version                          = 0
  
 [modif]
-        name                             = "unknown"
+        name                             =
         time                             = 0
  
 [object_0]
@@ -211,4 +211,71 @@
         wp_6_pos                         = 0.171169, 13.197023, -168.734528
         wp_6_selected                    = off
         wp_count                         = 7
+ 
+[object_6]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 4.000000, 1.000000
+        link_wp_4_0                      = 0.000000, 1.000000
+        name                             = gar_electric_af_way_1
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 197.625808, 11.740002, -89.622280
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 203.910128, 11.829582, -95.502928
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 210.448912, 11.940000, -96.977856
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 210.026080, 11.740002, -92.482072
+        wp_3_selected                    = off
+        wp_4_flags                       = 0
+        wp_4_name                        = wp04
+        wp_4_pos                         = 204.603616, 11.702757, -89.249072
+        wp_4_selected                    = on
+        wp_count                         = 5
+ 
+[object_7]
+        clsid                            = 7
+        co_flags                         = 0
+        link_wp_0_0                      = 1.000000, 1.000000
+        link_wp_1_0                      = 2.000000, 1.000000
+        link_wp_2_0                      = 3.000000, 1.000000
+        link_wp_3_0                      = 0.000000, 1.000000
+        name                             = gar_electric_af_way_2
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = 217.637712, 11.740002, -93.892040
+        wp_0_selected                    = on
+        wp_1_flags                       = 0
+        wp_1_name                        = wp01
+        wp_1_pos                         = 207.815344, 11.675644, -96.996344
+        wp_1_selected                    = off
+        wp_2_flags                       = 0
+        wp_2_name                        = wp02
+        wp_2_pos                         = 200.106064, 11.667537, -91.953880
+        wp_2_selected                    = off
+        wp_3_flags                       = 0
+        wp_3_name                        = wp03
+        wp_3_pos                         = 205.320480, 11.712107, -89.487416
+        wp_3_selected                    = on
+        wp_count                         = 4
  

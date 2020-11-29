@@ -3,7 +3,7 @@
         guid_g1                          = 6148914691236517205
  
 [main]
-        objects_count                    = 3
+        objects_count                    = 4
         version                          = 0
  
 [modif]
@@ -40,6 +40,17 @@
         position                         = -198.572096, 5.108638, -140.859808
         ref_name                         = anomaly2\electra_idle
         rotation                         = 0.001024, -0.070473, -1.585297
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 19
+ 
+[object_3]
+        clsid                            = 11
+        co_flags                         = 0
+        game_type                        = 65535
+        name                             = ps_0002
+        position                         = -229.003232, -1.768836, -136.028144
+        ref_name                         = vehiclefx\effects\exhaust_kamaz
+        rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         version                          = 19
  
