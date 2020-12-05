@@ -4,7 +4,7 @@
  
 [main]
         flags                            = 0
-        objects_count                    = 64
+        objects_count                    = 63
         version                          = 0
  
 [modif]
@@ -2449,7 +2449,7 @@ path = tunnel_level_changer_to_val_reject_way"
         000030                           = 0.000000
         000031                           = 1
         000032                           = -1
-        000033                           = -2113
+        000033                           = -2241
         000034                           = ""
         000035                           = -1
         000036                           = -1
@@ -3168,74 +3168,6 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
 [object_53]
         clsid                            = 6
         co_flags                         = 0
-        name                             = esc_tunnel_actor
-        position                         = -236.329264, -33.059426, -143.267296
-        rotation                         = 0.000000, -2.169001, -0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_53_spawndata]
-        000001                           = 1
-        000002                           = "actor"
-        000003                           = "esc_tunnel_actor"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -236.329264, -33.059426, -143.267296
-        000007                           = 0.000000, -2.169001, -0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 41
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -65
-        000024                           = "
-[game_info]
-"
-        000025                           = -1
-        000026                           = -1
-        000027                           = "actors\stalker_hero\stalker_hero_1"
-        000028                           = 0
-        000029                           = 0
-        000030                           = 0
-        000031                           = 0
-        000032                           = 1.000000
-        000033                           = 0
-        000034                           = 0
-        000035                           = 65535
-        000036                           = 0
-        000037                           = 15000
-        000038                           = ""
-        000039                           = 0
-        000040                           = "actor"
-        000041                           = -1
-        000042                           = -2147483647
-        000043                           = -2147483647
-        000044                           = ""
-        000045                           = 1
-        000046                           = 0
-        000047                           = "$editor"
-        000048                           = 0
-        000049                           = 65535
-        000050                           = 65535
-        000051                           = 0
-        000052                           = 1
-        fl                               = 0
-        name                             = actor
- 
-[object_54]
-        clsid                            = 6
-        co_flags                         = 0
         name                             = esc_tunnel_physic_object_0000
         position                         = -233.018832, -32.736428, -141.895984
         rotation                         = -0.276121, 2.854914, 0.082928
@@ -3243,7 +3175,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_54_spawndata]
+[object_53_spawndata]
         000001                           = 1
         000002                           = "physic_object"
         000003                           = "esc_tunnel_physic_object_0000"
@@ -3286,7 +3218,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией
         fl                               = 0
         name                             = physic_object
  
-[object_55]
+[object_54]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_trup_bandit
@@ -3296,7 +3228,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией
         type                             = 2
         version                          = 23
  
-[object_55_spawndata]
+[object_54_spawndata]
         000001                           = 1
         000002                           = "physic_object"
         000003                           = "esc_tunnel_trup_bandit"
@@ -3334,7 +3266,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией
         fl                               = 0
         name                             = physic_object
  
-[object_56]
+[object_55]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_wood_fence_2
@@ -3344,7 +3276,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией
         type                             = 2
         version                          = 23
  
-[object_56_spawndata]
+[object_55_spawndata]
         000001                           = 1
         000002                           = "wood_fence_2"
         000003                           = "esc_tunnel_wood_fence_2"
@@ -3382,7 +3314,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией
         fl                               = 0
         name                             = wood_fence_2
  
-[object_57]
+[object_56]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_box_paper
@@ -3392,7 +3324,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией
         type                             = 2
         version                          = 23
  
-[object_57_spawndata]
+[object_56_spawndata]
         000001                           = 1
         000002                           = "box_paper"
         000003                           = "esc_tunnel_box_paper"
@@ -3430,7 +3362,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией
         fl                               = 0
         name                             = box_paper
  
-[object_58]
+[object_57]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_ventilator_05
@@ -3440,7 +3372,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией
         type                             = 2
         version                          = 23
  
-[object_58_spawndata]
+[object_57_spawndata]
         000001                           = 1
         000002                           = "ventilator_05"
         000003                           = "esc_tunnel_ventilator_05"
@@ -3480,7 +3412,7 @@ ignore_small_objects"
         fl                               = 0
         name                             = ventilator_05
  
-[object_59]
+[object_58]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_wood_fence_3
@@ -3490,7 +3422,7 @@ ignore_small_objects"
         type                             = 2
         version                          = 23
  
-[object_59_spawndata]
+[object_58_spawndata]
         000001                           = 1
         000002                           = "wood_fence_3"
         000003                           = "esc_tunnel_wood_fence_3"
@@ -3527,6 +3459,54 @@ ignore_small_objects"
         000034                           = "link"
         fl                               = 0
         name                             = wood_fence_3
+ 
+[object_59]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = esc_tunnel_physic_object_0003
+        position                         = -210.489040, -28.260246, -146.890336
+        rotation                         = 0.052200, -1.564200, -1.636200
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_59_spawndata]
+        000001                           = 1
+        000002                           = "physic_object"
+        000003                           = "esc_tunnel_physic_object_0003"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -210.489040, -28.260246, -146.890336
+        000007                           = 0.052200, -1.564200, -1.636200
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -206
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = "monsters\cat\cat"
+        000028                           = 0
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = ""
+        fl                               = 0
+        name                             = physic_object
  
 [object_5_attached_0]
         clsid                            = 4
@@ -3604,54 +3584,6 @@ ignore_small_objects"
 [object_60]
         clsid                            = 6
         co_flags                         = 0
-        name                             = esc_tunnel_physic_object_0003
-        position                         = -210.489040, -28.260246, -146.890336
-        rotation                         = 0.052200, -1.564200, -1.636200
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_60_spawndata]
-        000001                           = 1
-        000002                           = "physic_object"
-        000003                           = "esc_tunnel_physic_object_0003"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -210.489040, -28.260246, -146.890336
-        000007                           = 0.052200, -1.564200, -1.636200
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -206
-        000024                           = ""
-        000025                           = -1
-        000026                           = -1
-        000027                           = "monsters\cat\cat"
-        000028                           = 0
-        000029                           = "$editor"
-        000030                           = 0
-        000031                           = 65535
-        000032                           = 3
-        000033                           = 10.000000
-        000034                           = ""
-        fl                               = 0
-        name                             = physic_object
- 
-[object_61]
-        clsid                            = 6
-        co_flags                         = 0
         name                             = esc_tunnel_ognetushitel
         position                         = -165.217232, -32.940430, -127.083736
         rotation                         = 0.000000, -0.000000, 1.571400
@@ -3659,7 +3591,7 @@ ignore_small_objects"
         type                             = 2
         version                          = 23
  
-[object_61_spawndata]
+[object_60_spawndata]
         000001                           = 1
         000002                           = "ognetushitel"
         000003                           = "esc_tunnel_ognetushitel"
@@ -3697,7 +3629,7 @@ ignore_small_objects"
         fl                               = 0
         name                             = ognetushitel
  
-[object_62]
+[object_61]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_physic_object_0002
@@ -3707,7 +3639,7 @@ ignore_small_objects"
         type                             = 2
         version                          = 23
  
-[object_62_spawndata]
+[object_61_spawndata]
         000001                           = 1
         000002                           = "physic_object"
         000003                           = "esc_tunnel_physic_object_0002"
@@ -3746,7 +3678,7 @@ ignore_static ;--???????????? ???????? ?? ???????????? ?????????"
         fl                               = 0
         name                             = physic_object
  
-[object_63]
+[object_62]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -3757,7 +3689,7 @@ ignore_static ;--???????????? ???????? ?? ???????????? ?????????"
         type                             = 2
         version                          = 23
  
-[object_63_attached_0]
+[object_62_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             =
@@ -3771,7 +3703,7 @@ ignore_static ;--???????????? ???????? ?? ???????????? ?????????"
         shapes_count                     = 1
         version                          = 2
  
-[object_63_spawndata]
+[object_62_spawndata]
         000001                           = 1
         000002                           = "zone_mine_electric_weak"
         000003                           = "esc_tunnel_zone_mine_electric_weak"
