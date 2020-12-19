@@ -11,7 +11,7 @@
  
 [main]
         flags                            = 0
-        objects_count                    = 5
+        objects_count                    = 7
         version                          = 0
  
 [modif]
@@ -20,12 +20,12 @@
  
 [object_0]
         clsid                            = 2
-        co_flags                         = 2
+        co_flags                         = 0
         flags                            = 0
-        name                             = levels\tun2\tun2_part0026
+        name                             = levels\tun2\tun2_sector
         position                         = 0.000000, 0.000000, 0.000000
-        reference_name                   = levels\tun2\tun2_part0026
-        rotation                         = 0.000000, -0.000000, -0.000000
+        reference_name                   = levels\tun2\tun2_sector
+        rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         version                          = 18
  
@@ -33,10 +33,10 @@
         clsid                            = 2
         co_flags                         = 0
         flags                            = 0
-        name                             = statics\fishers\mostik_b
-        position                         = -176.342288, -34.026892, -88.063584
-        reference_name                   = statics\fishers\mostik_b
-        rotation                         = -0.012600, -1.609200, -0.000000
+        name                             = levels\tun2\tun2_nosun
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = levels\tun2\tun2_nosun
+        rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         version                          = 18
  
@@ -44,9 +44,9 @@
         clsid                            = 2
         co_flags                         = 0
         flags                            = 0
-        name                             = statics\concrete_slab\betoncilindr_kusok
-        position                         = -168.299696, -28.564126, -129.850360
-        reference_name                   = statics\concrete_slab\plita_celka
+        name                             = statics\concrete_slab\concrete_block_7
+        position                         = -188.405472, -46.434124, -73.162912
+        reference_name                   = statics\concrete_slab\concrete_block_7
         rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         version                          = 18
@@ -55,21 +55,43 @@
         clsid                            = 2
         co_flags                         = 0
         flags                            = 0
-        name                             = statics\concrete_slab\concrete_block_1
-        position                         = -188.397168, -46.501876, -73.216056
-        reference_name                   = statics\concrete_slab\concrete_block_8
+        name                             = my\ulcer2
+        position                         = -156.428080, -32.163322, -124.444448
+        reference_name                   = my\ulcer2
         rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
+        scale                            = 0.342010, 0.908200, 0.906400
         version                          = 18
  
 [object_4]
         clsid                            = 2
         co_flags                         = 0
         flags                            = 0
-        name                             = statics\concrete_slab\betoncilindr_celka
-        position                         = -163.216640, -31.709768, -144.170400
-        reference_name                   = statics\concrete_slab\betoncilindr_celka
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 0.834400, 0.983800, 0.834400
+        name                             = my\ulcer2_0000
+        position                         = -167.940112, -31.274484, -126.647128
+        reference_name                   = my\ulcer2
+        rotation                         = 0.000000, -1.616400, -0.000000
+        scale                            = 1.487798, 1.334800, 1.413998
+        version                          = 18
+ 
+[object_5]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = my\ulcer2_0001
+        position                         = -209.780816, -28.503748, -146.500608
+        reference_name                   = my\ulcer2
+        rotation                         = -0.032400, -0.000000, 1.557000
+        scale                            = 1.055799, 1.199796, 0.965800
+        version                          = 18
+ 
+[object_6]
+        clsid                            = 2
+        co_flags                         = 67
+        flags                            = 0
+        name                             = statics\light\light_white_0002
+        position                         = -182.053040, -28.615278, -88.429768
+        reference_name                   = statics\light\light_white
+        rotation                         = 0.041384, 0.027023, 1.563081
+        scale                            = 1.000000, 1.000000, 1.000000
         version                          = 18
  

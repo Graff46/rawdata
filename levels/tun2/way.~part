@@ -3,7 +3,7 @@
         guid_g1                          = 6148914691236517205
  
 [main]
-        objects_count                    = 6
+        objects_count                    = 4
         version                          = 0
  
 [modif]
@@ -36,26 +36,11 @@
         version                          = 19
         wp_0_flags                       = 0
         wp_0_name                        = wp00
-        wp_0_pos                         = -155.489168, -29.814416, -114.624720
+        wp_0_pos                         = -155.606608, -29.297972, -114.902832
         wp_0_selected                    = on
         wp_count                         = 1
  
 [object_2]
-        clsid                            = 7
-        co_flags                         = 0
-        name                             = esc_tun_rat3
-        position                         = 0.000000, 0.000000, 0.000000
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 0
-        version                          = 19
-        wp_0_flags                       = 0
-        wp_0_name                        = wp00
-        wp_0_pos                         = -193.186640, -46.497704, -78.505472
-        wp_0_selected                    = on
-        wp_count                         = 1
- 
-[object_3]
         clsid                            = 7
         co_flags                         = 0
         name                             = esc_tun_tushkan1
@@ -70,10 +55,10 @@
         wp_0_selected                    = on
         wp_count                         = 1
  
-[object_4]
+[object_3]
         clsid                            = 7
         co_flags                         = 0
-        name                             = esc_tunnel_tushkan2p
+        name                             = esc_tun_rat3
         position                         = 0.000000, 0.000000, 0.000000
         rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
@@ -81,27 +66,7 @@
         version                          = 19
         wp_0_flags                       = 0
         wp_0_name                        = wp00
-        wp_0_pos                         = -177.764992, -22.400918, -88.153320
+        wp_0_pos                         = -192.478896, -46.047752, -76.784432
         wp_0_selected                    = on
         wp_count                         = 1
- 
-[object_5]
-        clsid                            = 7
-        co_flags                         = 0
-        link_wp_0_0                      = 1.000000, 1.000000
-        name                             = tunnel_level_changer_to_val_reject_way
-        position                         = 0.000000, 0.000000, 0.000000
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 0
-        version                          = 19
-        wp_0_flags                       = 1
-        wp_0_name                        = wp00
-        wp_0_pos                         = -237.044096, -33.059426, -139.804432
-        wp_0_selected                    = on
-        wp_1_flags                       = 1
-        wp_1_name                        = wp01
-        wp_1_pos                         = -237.015808, -33.059426, -141.485824
-        wp_1_selected                    = off
-        wp_count                         = 2
  

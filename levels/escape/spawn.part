@@ -21714,28 +21714,43 @@ story_id = esc_acidic_anomal_zone_id"
         name                             = zone_mine_electric_weak
  
 [object_399]
+        attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
-        name                             = escape_actor
-        position                         = -99.362008, -28.158788, -520.640320
-        rotation                         = 0.000000, 1.301401, -0.000000
+        name                             = escape_zone_mine_electric_average_0001
+        position                         = -198.351824, 4.691808, -140.996064
+        rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         type                             = 2
         version                          = 23
  
+[object_399_attached_0]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             =
+        position                         = -198.351824, 4.691808, -140.996064
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_radius_0                   = 2.000000
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shapes_count                     = 1
+        version                          = 2
+ 
 [object_399_spawndata]
         000001                           = 1
-        000002                           = "actor"
-        000003                           = "escape_actor"
+        000002                           = "zone_mine_electric_average"
+        000003                           = "escape_zone_mine_electric_average_0001"
         000004                           = 0
         000005                           = 254
-        000006                           = -99.362008, -28.158788, -520.640320
-        000007                           = 0.000000, 1.301401, -0.000000
+        000006                           = -198.351824, 4.691808, -140.996064
+        000007                           = 0.000000, 0.000000, 0.000000
         000008                           = 0
         000009                           = 65535
         000010                           = 65535
         000011                           = 65535
-        000012                           = 41
+        000012                           = 33
         000013                           = 128
         000014                           = 65535
         000015                           = 12
@@ -21746,40 +21761,26 @@ story_id = esc_acidic_anomal_zone_id"
         000020                           = 0.000000
         000021                           = 1
         000022                           = -1
-        000023                           = -65
-        000024                           = "
-[game_info]
-"
+        000023                           = -4306
+        000024                           = ""
         000025                           = -1
         000026                           = -1
-        000027                           = "actors\stalker_hero\stalker_hero_1"
+        000027                           = 1
         000028                           = 0
-        000029                           = 0
-        000030                           = 0
+        000029                           = 0.000000, 0.000000, 0.000000
+        000030                           = 2.000000
         000031                           = 0
-        000032                           = 1.000000
-        000033                           = 0
+        000032                           = 0.000000
+        000033                           = -1
         000034                           = 0
-        000035                           = 65535
+        000035                           = 0
         000036                           = 0
-        000037                           = 15000
-        000038                           = ""
+        000037                           = 30.000000
+        000038                           = 32
         000039                           = 0
-        000040                           = "actor"
-        000041                           = -1
-        000042                           = -2147483647
-        000043                           = -2147483647
-        000044                           = ""
-        000045                           = 1
-        000046                           = 0
-        000047                           = "$editor"
-        000048                           = 0
-        000049                           = 65535
-        000050                           = 65535
-        000051                           = 0
-        000052                           = 1
+        000040                           = 0
         fl                               = 0
-        name                             = actor
+        name                             = zone_mine_electric_average
  
 [object_39_attached_0]
         clsid                            = 4
@@ -21920,8 +21921,8 @@ story_id = esc_acidic_anomal_zone_id"
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
-        name                             = escape_zone_mine_electric_average_0001
-        position                         = -198.351824, 4.691808, -140.996064
+        name                             = escape_zone_mine_electric_weak_0008
+        position                         = 120.249016, 14.151642, 52.820544
         rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         type                             = 2
@@ -21931,7 +21932,7 @@ story_id = esc_acidic_anomal_zone_id"
         clsid                            = 4
         co_flags                         = 0
         name                             =
-        position                         = -198.351824, 4.691808, -140.996064
+        position                         = 120.249016, 14.151642, 52.820544
         rotation                         = 0.000000, 0.000000, 0.000000
         scale                            = 1.000000, 1.000000, 1.000000
         shape_center_0                   = 0.000000, 0.000000, 0.000000
@@ -21942,75 +21943,6 @@ story_id = esc_acidic_anomal_zone_id"
         version                          = 2
  
 [object_400_spawndata]
-        000001                           = 1
-        000002                           = "zone_mine_electric_average"
-        000003                           = "escape_zone_mine_electric_average_0001"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -198.351824, 4.691808, -140.996064
-        000007                           = 0.000000, 0.000000, 0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -4306
-        000024                           = ""
-        000025                           = -1
-        000026                           = -1
-        000027                           = 1
-        000028                           = 0
-        000029                           = 0.000000, 0.000000, 0.000000
-        000030                           = 2.000000
-        000031                           = 0
-        000032                           = 0.000000
-        000033                           = -1
-        000034                           = 0
-        000035                           = 0
-        000036                           = 0
-        000037                           = 30.000000
-        000038                           = 32
-        000039                           = 0
-        000040                           = 0
-        fl                               = 0
-        name                             = zone_mine_electric_average
- 
-[object_401]
-        attached_count                   = 1
-        clsid                            = 6
-        co_flags                         = 0
-        name                             = escape_zone_mine_electric_weak_0008
-        position                         = 120.249016, 14.151642, 52.820544
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_401_attached_0]
-        clsid                            = 4
-        co_flags                         = 0
-        name                             =
-        position                         = 120.249016, 14.151642, 52.820544
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        shape_center_0                   = 0.000000, 0.000000, 0.000000
-        shape_radius_0                   = 2.000000
-        shape_type                       = 0
-        shape_type_0                     = 0
-        shapes_count                     = 1
-        version                          = 2
- 
-[object_401_spawndata]
         000001                           = 1
         000002                           = "zone_mine_electric_weak"
         000003                           = "escape_zone_mine_electric_weak_0008"
@@ -22054,7 +21986,7 @@ story_id = esc_acidic_anomal_zone_id"
         fl                               = 0
         name                             = zone_mine_electric_weak
  
-[object_402]
+[object_401]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -22065,7 +21997,7 @@ story_id = esc_acidic_anomal_zone_id"
         type                             = 2
         version                          = 23
  
-[object_402_attached_0]
+[object_401_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             =
@@ -22079,7 +22011,7 @@ story_id = esc_acidic_anomal_zone_id"
         shapes_count                     = 1
         version                          = 2
  
-[object_402_spawndata]
+[object_401_spawndata]
         000001                           = 1
         000002                           = "zone_mine_electric_weak"
         000003                           = "escape_zone_mine_electric_weak_0004"
@@ -22123,7 +22055,7 @@ story_id = esc_acidic_anomal_zone_id"
         fl                               = 0
         name                             = zone_mine_electric_weak
  
-[object_403]
+[object_402]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -22134,7 +22066,7 @@ story_id = esc_acidic_anomal_zone_id"
         type                             = 2
         version                          = 23
  
-[object_403_attached_0]
+[object_402_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             =
@@ -22148,7 +22080,7 @@ story_id = esc_acidic_anomal_zone_id"
         shapes_count                     = 1
         version                          = 2
  
-[object_403_spawndata]
+[object_402_spawndata]
         000001                           = 1
         000002                           = "zone_mine_electric_weak"
         000003                           = "escape_zone_mine_electric_weak_0005"
@@ -22192,7 +22124,7 @@ story_id = esc_acidic_anomal_zone_id"
         fl                               = 0
         name                             = zone_mine_electric_weak
  
-[object_404]
+[object_403]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -22203,7 +22135,7 @@ story_id = esc_acidic_anomal_zone_id"
         type                             = 2
         version                          = 23
  
-[object_404_attached_0]
+[object_403_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             =
@@ -22217,7 +22149,7 @@ story_id = esc_acidic_anomal_zone_id"
         shapes_count                     = 1
         version                          = 2
  
-[object_404_spawndata]
+[object_403_spawndata]
         000001                           = 1
         000002                           = "zone_mine_electric_weak"
         000003                           = "escape_zone_mine_electric_weak_0009"
@@ -22261,7 +22193,7 @@ story_id = esc_acidic_anomal_zone_id"
         fl                               = 0
         name                             = zone_mine_electric_weak
  
-[object_405]
+[object_404]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -22272,7 +22204,7 @@ story_id = esc_acidic_anomal_zone_id"
         type                             = 2
         version                          = 23
  
-[object_405_attached_0]
+[object_404_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             =
@@ -22286,7 +22218,7 @@ story_id = esc_acidic_anomal_zone_id"
         shapes_count                     = 1
         version                          = 2
  
-[object_405_spawndata]
+[object_404_spawndata]
         000001                           = 1
         000002                           = "zone_mine_electric_weak"
         000003                           = "escape_zone_mine_electric_weak_0006"
@@ -22330,7 +22262,7 @@ story_id = esc_acidic_anomal_zone_id"
         fl                               = 0
         name                             = zone_mine_electric_weak
  
-[object_406]
+[object_405]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -22341,7 +22273,7 @@ story_id = esc_acidic_anomal_zone_id"
         type                             = 2
         version                          = 23
  
-[object_406_attached_0]
+[object_405_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             =
@@ -22355,7 +22287,7 @@ story_id = esc_acidic_anomal_zone_id"
         shapes_count                     = 1
         version                          = 2
  
-[object_406_spawndata]
+[object_405_spawndata]
         000001                           = 1
         000002                           = "zone_mine_electric_weak"
         000003                           = "escape_zone_mine_electric_weak_0010"
@@ -22398,6 +22330,74 @@ story_id = esc_acidic_anomal_zone_id"
         000040                           = 0
         fl                               = 0
         name                             = zone_mine_electric_weak
+ 
+[object_406]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = escape_actor
+        position                         = -97.493136, -28.312320, -520.785408
+        rotation                         = 0.000000, 1.431000, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_406_spawndata]
+        000001                           = 1
+        000002                           = "actor"
+        000003                           = "escape_actor"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -97.493136, -28.312320, -520.785408
+        000007                           = 0.000000, 1.431000, -0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 41
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -65
+        000024                           = "
+[game_info]
+"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "actors\stalker_hero\stalker_hero_1"
+        000028                           = 0
+        000029                           = 0
+        000030                           = 0
+        000031                           = 0
+        000032                           = 1.000000
+        000033                           = 0
+        000034                           = 0
+        000035                           = 65535
+        000036                           = 0
+        000037                           = 15000
+        000038                           = ""
+        000039                           = 0
+        000040                           = "actor"
+        000041                           = -1
+        000042                           = -2147483647
+        000043                           = -2147483647
+        000044                           = ""
+        000045                           = 1
+        000046                           = 0
+        000047                           = "$editor"
+        000048                           = 0
+        000049                           = 65535
+        000050                           = 65535
+        000051                           = 0
+        000052                           = 1
+        fl                               = 0
+        name                             = actor
  
 [object_40_attached_0]
         clsid                            = 4

@@ -1,7 +1,7 @@
 [build_params]
         light_jitter_samples             = 1
         light_pixel_per_meter            = 0.100000
-        light_quality                    = 0
+        light_quality                    = 2
         light_quality_reserved           = 0
         light_rms                        = 4
         light_rms_zero                   = 4
@@ -15,8 +15,8 @@
         weld_distance                    = 0.005000
  
 [camera]
-        hpb                              = -4.228766, -0.475263, 0.000000
-        pos                              = -183.859808, -43.775732, -73.481984
+        hpb                              = -4.267260, -0.156903, 0.000000
+        pos                              = -182.884448, -43.988924, -72.488880
  
 [guid]
         guid_g0                          = 6148914691236517205
@@ -38,11 +38,11 @@
         owner                            = "unknown"
  
 [snap_objects]
-        levels\tun2\tun2_part0026        =
-        statics\concrete_slab\betoncilindr_celka =
-        statics\concrete_slab\betoncilindr_kusok =
-        statics\concrete_slab\concrete_block_1 =
-        statics\fishers\mostik_b         =
+        levels\tun2\tun2_nosun           =
+        levels\tun2\tun2_sector          =
+        my\ulcer2                        =
+        my\ulcer2_0001                   =
+        statics\concrete_slab\concrete_block_7 =
  
 [version]
         value                            = 5

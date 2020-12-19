@@ -5,7 +5,7 @@
 [main]
         flags                            = -1073741824
         glow_tool_version                = 0
-        objects_count                    = 1
+        objects_count                    = 2
  
 [modif]
         name                             =
@@ -22,5 +22,18 @@
         scale                            = 0.500000, 0.500000, 0.500000
         shader_name                      = effects\glow
         texture_name                     = glow\glow_blue
+        version                          = 18
+ 
+[object_1]
+        clsid                            = 1
+        co_flags                         = 67
+        flags                            = 0
+        name                             = light_white_4m_glow
+        position                         = -181.962656, -28.684424, -88.425096
+        radius                           = 0.700000
+        rotation                         = 0.041384, 0.027023, 1.563081
+        scale                            = 0.700000, 0.700000, 0.700000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_white
         version                          = 18
  
