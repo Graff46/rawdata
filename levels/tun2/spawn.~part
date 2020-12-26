@@ -1990,77 +1990,6 @@ cfg = misc\secret_escape.ltx"
 [object_36]
         clsid                            = 6
         co_flags                         = 0
-        name                             = esc_tunnel_esc_svistun
-        position                         = -185.920304, -46.303024, -74.068176
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_36_spawndata]
-        000001                           = 1
-        000002                           = "esc_svistun"
-        000003                           = "esc_tunnel_esc_svistun"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -185.920304, -46.303024, -74.068176
-        000007                           = 0.000000, 0.000000, 0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 5000
-        000020                           = ""
-        000021                           = 0
-        000022                           = "esc_svistun"
-        000023                           = -1
-        000024                           = -2147483647
-        000025                           = -2147483647
-        000026                           = ""
-        000027                           = 1
-        000028                           = 0
-        000029                           = 65535
-        000030                           = 0.000000
-        000031                           = 1
-        000032                           = -1
-        000033                           = -2497
-        000034                           = "[logic]
-cfg = logic\npc\tunnel\svistun.ltx"
-        000035                           = -1
-        000036                           = -1
-        000037                           = "actors\stalker_neutral\stalker_neutral_2_face_7"
-        000038                           = 0
-        000039                           = 0
-        000040                           = 0
-        000041                           = 0
-        000042                           = 1.000000
-        000043                           = 0
-        000044                           = 0
-        000045                           = 65535
-        000046                           = 0
-        000047                           = ""
-        000048                           = ""
-        000049                           = 65535
-        000050                           = 0
-        000051                           = "$editor"
-        000052                           = 0
-        000053                           = 65535
-        000054                           = "nil"
-        000055                           = "nil"
-        000056                           = 0
-        fl                               = 0
-        name                             = esc_svistun
- 
-[object_37]
-        clsid                            = 6
-        co_flags                         = 0
         name                             = esc_tunnel_graph_point_0001
         position                         = -175.660768, -32.786614, -87.837072
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -2068,7 +1997,7 @@ cfg = logic\npc\tunnel\svistun.ltx"
         type                             = 2
         version                          = 23
  
-[object_37_spawndata]
+[object_36_spawndata]
         000001                           = 1
         000002                           = "graph_point"
         000003                           = "esc_tunnel_graph_point_0001"
@@ -2096,7 +2025,7 @@ cfg = logic\npc\tunnel\svistun.ltx"
         fl                               = 0
         name                             = graph_point
  
-[object_38]
+[object_37]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -2107,7 +2036,7 @@ cfg = logic\npc\tunnel\svistun.ltx"
         type                             = 2
         version                          = 23
  
-[object_38_attached_0]
+[object_37_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             = shape
@@ -2123,7 +2052,7 @@ cfg = logic\npc\tunnel\svistun.ltx"
         shapes_count                     = 1
         version                          = 2
  
-[object_38_spawndata]
+[object_37_spawndata]
         000001                           = 1
         000002                           = "space_restrictor"
         000003                           = "tun_tunnel_rat_sr"
@@ -2161,7 +2090,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         fl                               = 0
         name                             = space_restrictor
  
-[object_39]
+[object_38]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -2172,7 +2101,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_39_attached_0]
+[object_38_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             = shape
@@ -2188,7 +2117,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         shapes_count                     = 1
         version                          = 2
  
-[object_39_spawndata]
+[object_38_spawndata]
         000001                           = 1
         000002                           = "space_restrictor"
         000003                           = "esc_tunnel_rat_sr2"
@@ -2221,6 +2150,71 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         000029                           = 5.743757, 0.000000, 0.000000
         000030                           = 0.000000, 3.678397, 0.000000
         000031                           = 0.000000, 0.000000, 19.651340
+        000032                           = 0.000000, 0.000000, 0.000000
+        000033                           = 0
+        fl                               = 0
+        name                             = space_restrictor
+ 
+[object_39]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = esc_tunnel_rat3_sr
+        position                         = -192.050432, -41.932200, -76.163856
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_39_attached_0]
+        clsid                            = 4
+        co_flags                         = 0
+        name                             = shape
+        position                         = -192.050432, -41.932200, -76.163856
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 1.597599, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 3.017798, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 2.249197
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_39_spawndata]
+        000001                           = 1
+        000002                           = "space_restrictor"
+        000003                           = "esc_tunnel_rat3_sr"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -192.050432, -41.932200, -76.163856
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = "[logic]
+cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
+        000025                           = -1
+        000026                           = -1
+        000027                           = 1
+        000028                           = 1
+        000029                           = 1.597599, 0.000000, 0.000000
+        000030                           = 0.000000, 3.017798, 0.000000
+        000031                           = 0.000000, 0.000000, 2.249197
         000032                           = 0.000000, 0.000000, 0.000000
         000033                           = 0
         fl                               = 0
@@ -2313,71 +2307,6 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
-        name                             = esc_tunnel_rat3_sr
-        position                         = -192.050432, -41.932200, -76.163856
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_40_attached_0]
-        clsid                            = 4
-        co_flags                         = 0
-        name                             = shape
-        position                         = -192.050432, -41.932200, -76.163856
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
-        shape_matrix_i_0                 = 1.597599, 0.000000, 0.000000
-        shape_matrix_j_0                 = 0.000000, 3.017798, 0.000000
-        shape_matrix_k_0                 = 0.000000, 0.000000, 2.249197
-        shape_type                       = 0
-        shape_type_0                     = 1
-        shapes_count                     = 1
-        version                          = 2
- 
-[object_40_spawndata]
-        000001                           = 1
-        000002                           = "space_restrictor"
-        000003                           = "esc_tunnel_rat3_sr"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -192.050432, -41.932200, -76.163856
-        000007                           = 0.000000, 0.000000, 0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -194
-        000024                           = "[logic]
-cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
-        000025                           = -1
-        000026                           = -1
-        000027                           = 1
-        000028                           = 1
-        000029                           = 1.597599, 0.000000, 0.000000
-        000030                           = 0.000000, 3.017798, 0.000000
-        000031                           = 0.000000, 0.000000, 2.249197
-        000032                           = 0.000000, 0.000000, 0.000000
-        000033                           = 0
-        fl                               = 0
-        name                             = space_restrictor
- 
-[object_41]
-        attached_count                   = 1
-        clsid                            = 6
-        co_flags                         = 0
         name                             = esc_tunnel_tushkan1_sr
         position                         = -176.060336, -31.093116, -130.352312
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -2385,7 +2314,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_41_attached_0]
+[object_40_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             = shape
@@ -2401,7 +2330,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         shapes_count                     = 1
         version                          = 2
  
-[object_41_spawndata]
+[object_40_spawndata]
         000001                           = 1
         000002                           = "space_restrictor"
         000003                           = "esc_tunnel_tushkan1_sr"
@@ -2439,7 +2368,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         fl                               = 0
         name                             = space_restrictor
  
-[object_42]
+[object_41]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -2450,7 +2379,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_42_attached_0]
+[object_41_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             = shape
@@ -2466,7 +2395,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         shapes_count                     = 1
         version                          = 2
  
-[object_42_spawndata]
+[object_41_spawndata]
         000001                           = 1
         000002                           = "space_restrictor"
         000003                           = "esc_tunnel_tushkan2_sr"
@@ -2504,7 +2433,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         fl                               = 0
         name                             = space_restrictor
  
-[object_43]
+[object_42]
         attached_count                   = 1
         clsid                            = 6
         co_flags                         = 0
@@ -2515,7 +2444,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_43_attached_0]
+[object_42_attached_0]
         clsid                            = 4
         co_flags                         = 0
         name                             =
@@ -2529,7 +2458,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         shapes_count                     = 1
         version                          = 2
  
-[object_43_spawndata]
+[object_42_spawndata]
         000001                           = 1
         000002                           = "zone_mine_electric_average"
         000003                           = "esc_tunnel_zone_mine_electric_average"
@@ -2573,7 +2502,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         fl                               = 0
         name                             = zone_mine_electric_average
  
-[object_44]
+[object_43]
         clsid                            = 6
         co_flags                         = 2
         name                             = light_alarm_glass_0000
@@ -2583,7 +2512,7 @@ cfg = logic\restrictors\tun_tunnel_rat_sr.ltx"
         type                             = 2
         version                          = 23
  
-[object_44_spawndata]
+[object_43_spawndata]
         000001                           = 1
         000002                           = "lights_hanging_lamp"
         000003                           = "light_alarm_glass_0000"
@@ -2640,7 +2569,7 @@ ignore_static"
         fl                               = 0
         name                             = lights_hanging_lamp
  
-[object_45]
+[object_44]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_physic_object
@@ -2650,7 +2579,7 @@ ignore_static"
         type                             = 2
         version                          = 23
  
-[object_45_spawndata]
+[object_44_spawndata]
         000001                           = 1
         000002                           = "physic_object"
         000003                           = "esc_tunnel_physic_object"
@@ -2692,7 +2621,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией"
         fl                               = 0
         name                             = physic_object
  
-[object_46]
+[object_45]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_physic_object_0000
@@ -2702,7 +2631,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией"
         type                             = 2
         version                          = 23
  
-[object_46_spawndata]
+[object_45_spawndata]
         000001                           = 1
         000002                           = "physic_object"
         000003                           = "esc_tunnel_physic_object_0000"
@@ -2742,7 +2671,7 @@ ignore_ragdoll"
         fl                               = 0
         name                             = physic_object
  
-[object_47]
+[object_46]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_trup_bandit
@@ -2752,7 +2681,7 @@ ignore_ragdoll"
         type                             = 2
         version                          = 23
  
-[object_47_spawndata]
+[object_46_spawndata]
         000001                           = 1
         000002                           = "physic_object"
         000003                           = "esc_tunnel_trup_bandit"
@@ -2790,7 +2719,7 @@ ignore_ragdoll"
         fl                               = 0
         name                             = physic_object
  
-[object_48]
+[object_47]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_physic_object_0002
@@ -2800,7 +2729,7 @@ ignore_ragdoll"
         type                             = 2
         version                          = 23
  
-[object_48_spawndata]
+[object_47_spawndata]
         000001                           = 1
         000002                           = "physic_object"
         000003                           = "esc_tunnel_physic_object_0002"
@@ -2842,7 +2771,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией"
         fl                               = 0
         name                             = physic_object
  
-[object_49]
+[object_48]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_physic_object_0003
@@ -2852,7 +2781,7 @@ ignore_animated_objects ;--игнорировать объекты со встроенной анимацией"
         type                             = 2
         version                          = 23
  
-[object_49_spawndata]
+[object_48_spawndata]
         000001                           = 1
         000002                           = "physic_object"
         000003                           = "esc_tunnel_physic_object_0003"
@@ -2891,6 +2820,54 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         000034                           = "bip01_tail3,bip01_l_thigh,bip01_r_thigh"
         fl                               = 0
         name                             = physic_object
+ 
+[object_49]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = esc_tunnel_balon_02
+        position                         = -230.919472, -33.059426, -147.869504
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_49_spawndata]
+        000001                           = 1
+        000002                           = "balon_02"
+        000003                           = "esc_tunnel_balon_02"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -230.919472, -33.059426, -147.869504
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\balon\balon_02"
+        000028                           = 0
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = ""
+        fl                               = 0
+        name                             = balon_02
  
 [object_4_attached_0]
         clsid                            = 4
@@ -2969,54 +2946,6 @@ ignore_static ;--игнорировать коллизии со статическими объектами
 [object_50]
         clsid                            = 6
         co_flags                         = 0
-        name                             = esc_tunnel_balon_02
-        position                         = -230.919472, -33.059426, -147.869504
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_50_spawndata]
-        000001                           = 1
-        000002                           = "balon_02"
-        000003                           = "esc_tunnel_balon_02"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -230.919472, -33.059426, -147.869504
-        000007                           = 0.000000, 0.000000, 0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -198
-        000024                           = ""
-        000025                           = -1
-        000026                           = -1
-        000027                           = "dynamics\balon\balon_02"
-        000028                           = 0
-        000029                           = "$editor"
-        000030                           = 0
-        000031                           = 65535
-        000032                           = 3
-        000033                           = 10.000000
-        000034                           = ""
-        fl                               = 0
-        name                             = balon_02
- 
-[object_51]
-        clsid                            = 6
-        co_flags                         = 0
         name                             = esc_tunnel_balon_02_0000
         position                         = -231.320192, -33.059426, -147.980144
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -3024,7 +2953,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_51_spawndata]
+[object_50_spawndata]
         000001                           = 1
         000002                           = "balon_02"
         000003                           = "esc_tunnel_balon_02_0000"
@@ -3062,7 +2991,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = balon_02
  
-[object_52]
+[object_51]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_balon_02_0001
@@ -3072,7 +3001,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_52_spawndata]
+[object_51_spawndata]
         000001                           = 1
         000002                           = "balon_02"
         000003                           = "esc_tunnel_balon_02_0001"
@@ -3110,7 +3039,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = balon_02
  
-[object_53]
+[object_52]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_balon_02a
@@ -3120,7 +3049,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_53_spawndata]
+[object_52_spawndata]
         000001                           = 1
         000002                           = "balon_02a"
         000003                           = "esc_tunnel_balon_02a"
@@ -3158,7 +3087,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = balon_02a
  
-[object_54]
+[object_53]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_box_bottle_1
@@ -3168,7 +3097,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_54_spawndata]
+[object_53_spawndata]
         000001                           = 1
         000002                           = "box_bottle_1"
         000003                           = "esc_tunnel_box_bottle_1"
@@ -3206,7 +3135,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = box_bottle_1
  
-[object_55]
+[object_54]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_box_paper
@@ -3216,7 +3145,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_55_spawndata]
+[object_54_spawndata]
         000001                           = 1
         000002                           = "box_paper"
         000003                           = "esc_tunnel_box_paper"
@@ -3254,7 +3183,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = box_paper
  
-[object_56]
+[object_55]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_box_wood_02
@@ -3264,7 +3193,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_56_spawndata]
+[object_55_spawndata]
         000001                           = 1
         000002                           = "box_wood_02"
         000003                           = "esc_tunnel_box_wood_02"
@@ -3302,7 +3231,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = box_wood_02
  
-[object_57]
+[object_56]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_wood_fence_1
@@ -3312,7 +3241,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_57_spawndata]
+[object_56_spawndata]
         000001                           = 1
         000002                           = "wood_fence_1"
         000003                           = "esc_tunnel_wood_fence_1"
@@ -3350,7 +3279,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = wood_fence_1
  
-[object_58]
+[object_57]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_fire_vedro
@@ -3360,7 +3289,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_58_spawndata]
+[object_57_spawndata]
         000001                           = 1
         000002                           = "fire_vedro"
         000003                           = "esc_tunnel_fire_vedro"
@@ -3398,7 +3327,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = fire_vedro
  
-[object_59]
+[object_58]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_bottle_3l
@@ -3408,7 +3337,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_59_spawndata]
+[object_58_spawndata]
         000001                           = 1
         000002                           = "bottle_3l"
         000003                           = "esc_tunnel_bottle_3l"
@@ -3445,6 +3374,54 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         000034                           = ""
         fl                               = 0
         name                             = bottle_3l
+ 
+[object_59]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = esc_tunnel_miska
+        position                         = -155.603040, -33.059426, -131.268720
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_59_spawndata]
+        000001                           = 1
+        000002                           = "miska"
+        000003                           = "esc_tunnel_miska"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -155.603040, -33.059426, -131.268720
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\kitchen_room\kitchen_miska"
+        000028                           = 0
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = ""
+        fl                               = 0
+        name                             = miska
  
 [object_5_attached_0]
         clsid                            = 4
@@ -3522,54 +3499,6 @@ ignore_static ;--игнорировать коллизии со статическими объектами
 [object_60]
         clsid                            = 6
         co_flags                         = 0
-        name                             = esc_tunnel_miska
-        position                         = -155.603040, -33.059426, -131.268720
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_60_spawndata]
-        000001                           = 1
-        000002                           = "miska"
-        000003                           = "esc_tunnel_miska"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -155.603040, -33.059426, -131.268720
-        000007                           = 0.000000, 0.000000, 0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -198
-        000024                           = ""
-        000025                           = -1
-        000026                           = -1
-        000027                           = "dynamics\kitchen_room\kitchen_miska"
-        000028                           = 0
-        000029                           = "$editor"
-        000030                           = 0
-        000031                           = 65535
-        000032                           = 3
-        000033                           = 10.000000
-        000034                           = ""
-        fl                               = 0
-        name                             = miska
- 
-[object_61]
-        clsid                            = 6
-        co_flags                         = 0
         name                             = esc_tunnel_taburet_village
         position                         = -153.639360, -33.059426, -130.814328
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -3577,7 +3506,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_61_spawndata]
+[object_60_spawndata]
         000001                           = 1
         000002                           = "taburet_village"
         000003                           = "esc_tunnel_taburet_village"
@@ -3615,7 +3544,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = taburet_village
  
-[object_62]
+[object_61]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_stul_wood_01
@@ -3625,7 +3554,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_62_spawndata]
+[object_61_spawndata]
         000001                           = 1
         000002                           = "stul_wood_01"
         000003                           = "esc_tunnel_stul_wood_01"
@@ -3663,7 +3592,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = stul_wood_01
  
-[object_63]
+[object_62]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_vedro_01
@@ -3673,7 +3602,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_63_spawndata]
+[object_62_spawndata]
         000001                           = 1
         000002                           = "vedro_01"
         000003                           = "esc_tunnel_vedro_01"
@@ -3711,7 +3640,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = vedro_01
  
-[object_64]
+[object_63]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_balon_01
@@ -3721,7 +3650,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_64_spawndata]
+[object_63_spawndata]
         000001                           = 1
         000002                           = "balon_01"
         000003                           = "esc_tunnel_balon_01"
@@ -3759,7 +3688,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = balon_01
  
-[object_65]
+[object_64]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_vedro_01_0000
@@ -3769,7 +3698,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_65_spawndata]
+[object_64_spawndata]
         000001                           = 1
         000002                           = "vedro_01"
         000003                           = "esc_tunnel_vedro_01_0000"
@@ -3807,7 +3736,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = vedro_01
  
-[object_66]
+[object_65]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_ognetushitel
@@ -3817,7 +3746,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_66_spawndata]
+[object_65_spawndata]
         000001                           = 1
         000002                           = "ognetushitel"
         000003                           = "esc_tunnel_ognetushitel"
@@ -3855,7 +3784,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = ognetushitel
  
-[object_67]
+[object_66]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_wood_fence_3
@@ -3865,7 +3794,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_67_spawndata]
+[object_66_spawndata]
         000001                           = 1
         000002                           = "wood_fence_3"
         000003                           = "esc_tunnel_wood_fence_3"
@@ -3903,7 +3832,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = wood_fence_3
  
-[object_68]
+[object_67]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_kastrula
@@ -3913,7 +3842,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_68_spawndata]
+[object_67_spawndata]
         000001                           = 1
         000002                           = "kastrula"
         000003                           = "esc_tunnel_kastrula"
@@ -3951,7 +3880,7 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         fl                               = 0
         name                             = kastrula
  
-[object_69]
+[object_68]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_gaz_balon
@@ -3961,13 +3890,61 @@ ignore_static ;--игнорировать коллизии со статическими объектами
         type                             = 2
         version                          = 23
  
-[object_69_spawndata]
+[object_68_spawndata]
         000001                           = 1
         000002                           = "gaz_balon"
         000003                           = "esc_tunnel_gaz_balon"
         000004                           = 0
         000005                           = 254
         000006                           = -155.920224, -33.059426, -110.571800
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\balon\gaz_balon"
+        000028                           = 0
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = 3
+        000033                           = 10.000000
+        000034                           = ""
+        fl                               = 0
+        name                             = gaz_balon
+ 
+[object_69]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = esc_tunnel_gaz_balon_0000
+        position                         = -189.453744, -32.309688, -89.308880
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_69_spawndata]
+        000001                           = 1
+        000002                           = "gaz_balon"
+        000003                           = "esc_tunnel_gaz_balon_0000"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -189.453744, -32.309688, -89.308880
         000007                           = 0.000000, 0.000000, 0.000000
         000008                           = 0
         000009                           = 65535
@@ -4069,54 +4046,6 @@ ignore_static"
 [object_70]
         clsid                            = 6
         co_flags                         = 0
-        name                             = esc_tunnel_gaz_balon_0000
-        position                         = -189.453744, -32.309688, -89.308880
-        rotation                         = 0.000000, 0.000000, 0.000000
-        scale                            = 1.000000, 1.000000, 1.000000
-        type                             = 2
-        version                          = 23
- 
-[object_70_spawndata]
-        000001                           = 1
-        000002                           = "gaz_balon"
-        000003                           = "esc_tunnel_gaz_balon_0000"
-        000004                           = 0
-        000005                           = 254
-        000006                           = -189.453744, -32.309688, -89.308880
-        000007                           = 0.000000, 0.000000, 0.000000
-        000008                           = 0
-        000009                           = 65535
-        000010                           = 65535
-        000011                           = 65535
-        000012                           = 33
-        000013                           = 128
-        000014                           = 65535
-        000015                           = 12
-        000016                           = 0
-        000017                           = 65535
-        000018                           = 0
-        000019                           = 65535
-        000020                           = 0.000000
-        000021                           = 1
-        000022                           = -1
-        000023                           = -198
-        000024                           = ""
-        000025                           = -1
-        000026                           = -1
-        000027                           = "dynamics\balon\gaz_balon"
-        000028                           = 0
-        000029                           = "$editor"
-        000030                           = 0
-        000031                           = 65535
-        000032                           = 3
-        000033                           = 10.000000
-        000034                           = ""
-        fl                               = 0
-        name                             = gaz_balon
- 
-[object_71]
-        clsid                            = 6
-        co_flags                         = 0
         name                             = esc_tunnel_taburet_wood_01
         position                         = -175.092064, -33.059430, -127.601952
         rotation                         = 0.000000, 0.000000, 0.000000
@@ -4124,7 +4053,7 @@ ignore_static"
         type                             = 2
         version                          = 23
  
-[object_71_spawndata]
+[object_70_spawndata]
         000001                           = 1
         000002                           = "taburet_wood_01"
         000003                           = "esc_tunnel_taburet_wood_01"
@@ -4162,7 +4091,7 @@ ignore_static"
         fl                               = 0
         name                             = taburet_wood_01
  
-[object_72]
+[object_71]
         clsid                            = 6
         co_flags                         = 0
         name                             = esc_tunnel_physic_object_0001
@@ -4172,7 +4101,7 @@ ignore_static"
         type                             = 2
         version                          = 23
  
-[object_72_spawndata]
+[object_71_spawndata]
         000001                           = 1
         000002                           = "physic_object"
         000003                           = "esc_tunnel_physic_object_0001"
@@ -4211,7 +4140,7 @@ ignore_static"
         fl                               = 0
         name                             = physic_object
  
-[object_73]
+[object_72]
         clsid                            = 6
         co_flags                         = 67
         name                             = lights_white_4m_glass
@@ -4221,7 +4150,7 @@ ignore_static"
         type                             = 2
         version                          = 23
  
-[object_73_spawndata]
+[object_72_spawndata]
         000001                           = 1
         000002                           = "lights_hanging_lamp"
         000003                           = "lights_white_4m_glass"
@@ -4278,6 +4207,78 @@ ignore_static
         000052                           = 1.000000
         fl                               = 0
         name                             = lights_hanging_lamp
+ 
+[object_73]
+        clsid                            = 6
+        co_flags                         = 0
+        name                             = esc_tunnel_stalker
+        position                         = -186.295840, -46.248964, -74.178440
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_73_spawndata]
+        000001                           = 1
+        000002                           = "esc_svistun"
+        000003                           = ""
+        000004                           = 0
+        000005                           = 254
+        000006                           = 0.000000, 0.000000, 0.000000
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 5000
+        000020                           = ""
+        000021                           = 1
+        000022                           = "esc_svistun"
+        000023                           = -1
+        000024                           = -2147483647
+        000025                           = -2147483647
+        000026                           = ""
+        000027                           = 1
+        000028                           = 0
+        000029                           = 65535
+        000030                           = 0.000000
+        000031                           = 1
+        000032                           = -1
+        000033                           = -2369
+        000034                           = "[logic]
+cfg = logic\npc\tunnel\svistun.ltx
+"
+        000035                           = -1
+        000036                           = -1
+        000037                           = "actors\stalker_hero\stalker_hero_1"
+        000038                           = 0
+        000039                           = 0
+        000040                           = 0
+        000041                           = 0
+        000042                           = 1.000000
+        000043                           = 0
+        000044                           = 0
+        000045                           = 65535
+        000046                           = 0
+        000047                           = ""
+        000048                           = ""
+        000049                           = 65535
+        000050                           = 0
+        000051                           = "$editor"
+        000052                           = 0
+        000053                           = 65535
+        000054                           = "nil"
+        000055                           = "nil"
+        000056                           = 0
+        fl                               = 0
+        name                             = esc_svistun
  
 [object_7_spawndata]
         000001                           = 1

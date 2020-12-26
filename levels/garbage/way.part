@@ -3,7 +3,7 @@
         guid_g1                          = 6148914691236517205
  
 [main]
-        objects_count                    = 8
+        objects_count                    = 9
         version                          = 0
  
 [modif]
@@ -278,4 +278,19 @@
         wp_3_pos                         = 205.320480, 11.712107, -89.487416
         wp_3_selected                    = on
         wp_count                         = 4
+ 
+[object_8]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = gar_presioner_pt
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -22.527438, 12.514383, -187.718880
+        wp_0_selected                    = on
+        wp_count                         = 1
  
